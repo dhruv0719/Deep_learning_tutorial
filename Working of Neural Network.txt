@@ -1,0 +1,11 @@
+FameWork for Doing Deep learning
+
+1. Import libraries
+2. Load the Dataset 
+3. Get an understanding of the data. what we want to Do in that
+4. Process of data cleaning 
+5. Data visualizations if needed 
+6. Train Test Splitting of the data 
+7. Then Do ANN or CNN 
+8. Checkout the the prediction
+9. Then Make good Accuracy 	
